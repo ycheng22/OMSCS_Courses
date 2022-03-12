@@ -1,3 +1,15 @@
-# OMSCS_Courses
+# CS 7643: Deep Learning
 
-This repo is about the courses from [**Online Master of Science in Computer Science (OMSCS)**](https://omscs.gatech.edu/home) Program from Georgia Institute of Technology.
+Course website: (https://omscs.gatech.edu/cs-7643-deep-learning)
+
+## Group Project:
+---
+abc
+
+## Homeworks:
+---
+- Homework 1
+- Homework 2
+- Homework 3
+- Homework 4
+- Homework 5
