@@ -2,11 +2,11 @@
 
 Course website: (https://poloclub.github.io/cse6242-2022spring-online/)
 
-## Group Project:
+## Group Project
 ---
 abc
 
-## Homeworks:
+## Homeworks
 ---
 
 - Homework 1
