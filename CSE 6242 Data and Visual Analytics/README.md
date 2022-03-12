@@ -3,11 +3,11 @@
 Course website: (https://poloclub.github.io/cse6242-2022spring-online/)
 
 ## Group Project
----
+
 abc
 
 ## Homeworks
----
+
 
 - Homework 1
   - Q1: Collecting data from TMDb and visualizing co-actor network using Argo Lite

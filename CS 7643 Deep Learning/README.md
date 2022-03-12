@@ -3,11 +3,11 @@
 Course website: (https://omscs.gatech.edu/cs-7643-deep-learning)
 
 ## Group Project
----
+
 abc
 
 ## Homeworks
----
+
 - Homework 1
   
   Completing a simple pipeline of training neural networks to recognize MNIST Handwritten Digits. Implementing two neural
