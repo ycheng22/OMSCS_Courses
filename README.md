@@ -8,4 +8,4 @@ Courses:
   **About:** Students will learn the fundamental principles, underlying mathematics, and implementation details of deep learning. Applications ranging from computer vision to natural language processing, and decision-making (reinforcement learning) will be demonstrated. PyTorch will be used. 
 - [CSE 6242: Data and Visual Analytics](https://github.com/ycheng22/OMSCS_Courses/tree/main/CSE%206242%20Data%20and%20Visual%20Analytics)
 
-  **About:** This course will introduce you to broad classes of techniques and tools for analyzing and visualizing data at scale. Such as SQLite, Tableau, D3js, Spark/PySpark on cloud platform.
+  **About:** This course will introduce you to broad classes of techniques and tools for analyzing and visualizing data at scale. Such as SQLite, Tableau, D3js, Spark/PySpark on cloud platform, Page Rank algorithm, Classification, Clustering, Scikit-Learn.
