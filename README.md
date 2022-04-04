@@ -6,7 +6,6 @@ This repo is about the courses from [**Online Master of Science in Computer Scie
   - [CS 7643: Deep Learning](#cs-7643-deep-learning)
   - [CSE 6242: Data and Visual Analytics](#cse-6242-data-and-visual-analytics)
 
-Courses:
 ## [CS 7643: Deep Learning](https://github.com/ycheng22/OMSCS_Courses/tree/main/CS%207643%20Deep%20Learning)
 
   **About:** Students will learn the fundamental principles, underlying mathematics, and implementation details of deep learning. Applications ranging from computer vision to natural language processing, and decision-making (reinforcement learning) will be demonstrated. PyTorch will be used. 
