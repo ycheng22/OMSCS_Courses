@@ -4,7 +4,7 @@ Course website: (https://poloclub.github.io/cse6242-2022spring-online/)
 
 ## Group Project
 
-abc
+A comprehensive study of US traffic accident evaluation and prediction (in progress).
 
 ## Homeworks
 
@@ -40,11 +40,10 @@ Machine Learning Studio
   
 
 - Homework 4
-  - Q1:
-  - Q2:
-  - Q3:
-  - Q4:
-  - Q5
+  - Q1: Implementation of Page Rank algorithm
+  - Q2: Implementing a random forest classifier from scratch
+  - Q3: Learning Scikit-Learn, such as Linear Regression Classifier, Random Forest Classifier, Support Vector Machine, Principal Component Analysis.
+
   
 
 
