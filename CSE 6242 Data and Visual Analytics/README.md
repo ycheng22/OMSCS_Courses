@@ -2,6 +2,14 @@
 
 Course website: (https://poloclub.github.io/cse6242-2022spring-online/)
 
+- [CSE 6242: Data and Visual Analytics](#cse-6242-data-and-visual-analytics)
+  - [Group Project](#group-project)
+  - [Homeworks](#homeworks)
+    - [Homework 1](#homework-1)
+    - [Homework 2 (D3js)](#homework-2-d3js)
+    - [Homework 3](#homework-3)
+    - [Homework 4](#homework-4)
+
 ## Group Project
 
 A comprehensive study of US traffic accident evaluation and prediction (in progress).
@@ -9,7 +17,7 @@ A comprehensive study of US traffic accident evaluation and prediction (in progr
 ## Homeworks
 
 
-- Homework 1
+### Homework 1
   - Q1: Collecting data from TMDb and visualizing co-actor network using Argo Lite
   ![](./images/argo_lite.png)
   - Q2: SQLite operations
@@ -17,7 +25,7 @@ A comprehensive study of US traffic accident evaluation and prediction (in progr
   - Q4: OpenRefine
   - Q5: Introduction to Python Flask
   
-- Homework 2 (D3js)
+### Homework 2 (D3js)
   - Q1: Visualizing data with Tableau
     <p align="center">
         <img src="./images/grouped_barchart.png" width="60%"/>
@@ -30,7 +38,7 @@ A comprehensive study of US traffic accident evaluation and prediction (in progr
   - Q5: Choropleth Map of Board Game Ratings
     ![](./images/hw2q5.png)
 
-- Homework 3
+### Homework 3
   - Q1: Analyzing trips data with PySpark
   - Q2: Analyzing dataset with Spark/Scala on Databricks
   - Q3: Analyzing Large Amount of Data with PySpark on AWS
@@ -39,7 +47,7 @@ A comprehensive study of US traffic accident evaluation and prediction (in progr
 Machine Learning Studio
   
 
-- Homework 4
+### Homework 4
   - Q1: Implementation of Page Rank algorithm
   - Q2: Implementing a random forest classifier from scratch
   - Q3: Learning Scikit-Learn, such as Linear Regression Classifier, Random Forest Classifier, Support Vector Machine, Principal Component Analysis.

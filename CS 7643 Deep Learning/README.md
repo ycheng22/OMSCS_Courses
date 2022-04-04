@@ -2,27 +2,37 @@
 
 Course website: (https://omscs.gatech.edu/cs-7643-deep-learning)
 
+- [CS 7643: Deep Learning](#cs-7643-deep-learning)
+  - [Group Project](#group-project)
+  - [Homeworks](#homeworks)
+    - [Homework 1](#homework-1)
+    - [Homework 2](#homework-2)
+    - [Homework 3](#homework-3)
+    - [Homework 4](#homework-4)
+    - [Homework 5 (optional)](#homework-5-optional)
+  - [Paper Discussions](#paper-discussions)
+
 ## Group Project
 
 Hateful Memes (in progress).
 
 ## Homeworks
 
-- Homework 1
+### Homework 1
   
   Completing a simple pipeline of training neural networks to recognize MNIST Handwritten Digits. 
   
   Implementing two neural
   network architectures along with the code to load data, train and optimize these networks. Running different experiments on your model to complete a short report. 
-- Homework 2
+### Homework 2
   
   Completing a simple CNN architecture from scratch and learn how to implement CNNs with PyTorch. 
   
   Running different experiments on imbalanced datasets to evaluate your model and techniques to deal with imbalanced data (focal loss).
-- Homework 3
+### Homework 3
   
   Saliency map, GradCam, Fooling image, class visualization and style transfer.
-- Homework 4
+### Homework 4
 
   Implementing a vanilla RNN unit, an LSTM unit.
 
@@ -30,7 +40,7 @@ Hateful Memes (in progress).
 
   Implementing the Transformer encoder and training.
 
-- Homework 5 (optional)
+### Homework 5 (optional)
   
 Implementing and training a robot with
 reinforcement learning.
