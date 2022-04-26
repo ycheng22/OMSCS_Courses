@@ -22,6 +22,8 @@ The final project includes:
 
 3. Website: https://dva-team145-traffic.herokuapp.com/
 
+Please find more details at [here](https://github.com/ycheng22/OMSCS_Courses/tree/main/CSE%206242%20Data%20and%20Visual%20Analytics/Group%20Project).
+
 ## Homeworks
 
 
