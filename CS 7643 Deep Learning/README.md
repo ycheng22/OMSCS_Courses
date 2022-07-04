@@ -14,7 +14,7 @@ Course website: (https://omscs.gatech.edu/cs-7643-deep-learning)
 
 ## Group Project
 
-Hateful Memes (in progress).
+Hateful Memes.
 
 ## Homeworks
 
