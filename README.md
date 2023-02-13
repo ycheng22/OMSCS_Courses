@@ -22,12 +22,13 @@ This repo is about the courses from [**Online Master of Science in Computer Scie
   **About:** This course provides an in-depth study of the process of developing software systems, including: the use of software processes in actual product development; techniques used to ensure quality of the software products; and maintenance tasks performed as software evolves.
 
 ## [CS 6200: Introduction to Operating Systems](https://github.com/ycheng22/OMSCS_Courses/tree/main/CS%206200%20Intro%20to%20OS)
-
+  **About:**
 ## [CS 6250: Computer Networks](https://github.com/ycheng22/OMSCS_Courses/tree/main/CS%206250%20Computer%20Networks)
-
+  **About:**
 ## [CS 7642: Reinforcement Learning](https://github.com/ycheng22/OMSCS_Courses/tree/main/CS%207642%20Reinforcement%20Learning)
-
+  **About:** Topics include Markov decision processes, stochastic and repeated games, partially observable Markov decision processes, reinforcement learning, deep reinforcement learning, and multi-agent deep reinforcement learning. Of particular interest will be issues of generalization, exploration, and representation. We will cover these topics through lecture videos, paper readings, and the book Reinforcement Learning by Sutton and Barto.
 ## [CSE 6220: High Performance Computing](https://github.com/ycheng22/OMSCS_Courses/tree/main/CSE%206220%20High%20Performance%20Computing)
+  **About:** This course is a graduate-level introduction to scalable parallel algorithms. The techniques you’ll encounter cover the main algorithm design and analysis ideas for three major classes of machines: for multicore and manycore shared memory machines, via the work-span model; for distributed memory machines like clusters and supercomputers, via network models; and for sequential or parallel machines with deep memory hierarchies (e.g., caches). 
 
 ## [CS 6035: Intro to Information Security](https://github.com/ycheng22/OMSCS_Courses/tree/main/CS%206035%20Intro%20to%20Information%20Security)
-
+  **About:** Main topics include: security basics; security management and risk assessment; software security; operating systems security; database security; cryptography algorithms and protocols; network authentication and secure network applications; malicious malware; network threats and defenses; web security; mobile security; legal and ethical issues; and privacy.
