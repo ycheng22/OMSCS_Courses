@@ -3,7 +3,6 @@
 Course website: (https://omscs.gatech.edu/cs-6300-software-development-process)
 
 - [CS 6300: Software Development Process](#cs-6300-software-development-process)
-  - [Group Project](#group-project)
   - [Individual Project](#individual-project)
   - [Homeworks](#homeworks)
     - [Homework 1](#homework-1)
@@ -13,7 +12,7 @@ Course website: (https://omscs.gatech.edu/cs-6300-software-development-process)
     - [Homework 5](#homework-5)
     - [Homework 6](#homework-6)
 
-## Group Project
+[## Group Project]()
 
 Built an Android APP to compare job offers with benefits, in different locations, and other aspects
 beyond salary. Firstly, create a design in UML. Secondly, implement the APP with Android Studio.
