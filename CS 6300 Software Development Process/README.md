@@ -19,7 +19,7 @@ Built an Android APP to compare job offers with benefits, in different locations
 beyond salary. Firstly, create a design in UML. Secondly, implement the APP with Android Studio.
 
 ## Individual Project
--
+Developing a simple Java application (texttool) using an agile, test-driven process.
 
 ## Homeworks
 
