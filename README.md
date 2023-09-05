@@ -11,6 +11,9 @@ This repo is about the courses from [**Online Master of Science in Computer Scie
   - [CS 7642: Reinforcement Learning](#cs-7642-reinforcement-learning)
   - [CSE 6220: High Performance Computing](#cse-6220-high-performance-computing)
   - [CS 6035: Intro to Information Security](#cs-6035-intro-to-information-security)
+  - [CS 6310: Software Architecture and Design](#cs-6310-software-architecture-and-design)
+  - [CS 6515: Intro to Graduate Algorithms](#cs-6515-intro-to-graduate-algorithms)
+  - [CS 7650: Natural Language Processing](#cs-7650-natural-language-processing)
 ## [CS 7643: Deep Learning](https://github.com/ycheng22/OMSCS_Courses/tree/main/CS%207643%20Deep%20Learning)
 
   **About:** Students will learn the fundamental principles, underlying mathematics, and implementation details of deep learning. Applications ranging from computer vision to natural language processing, and decision-making (reinforcement learning) will be demonstrated. PyTorch will be used.
@@ -32,3 +35,12 @@ This repo is about the courses from [**Online Master of Science in Computer Scie
 
 ## [CS 6035: Intro to Information Security](https://github.com/ycheng22/OMSCS_Courses/tree/main/CS%206035%20Intro%20to%20Information%20Security)
   **About:** Main topics include: security basics; security management and risk assessment; software security; operating systems security; database security; cryptography algorithms and protocols; network authentication and secure network applications; malicious malware; network threats and defenses; web security; mobile security; legal and ethical issues; and privacy.
+
+## [CS 6310: Software Architecture and Design]()
+  **About:** Software Architecture and Design will provide students with the principles and concepts involved in the analysis and design of large software systems. 
+  
+## [CS 6515: Intro to Graduate Algorithms]()
+  **About:** This course is a graduate-level course in the design and analysis of algorithms. We study computational intractability, specifically, the theory of NP-completeness. The main topics covered in the course include: dynamic programming; divide and conquer, including FFT; randomized algorithms, including RSA cryptosystem;  graph algorithms; max-flow algorithms; linear programming; and NP-completeness.
+
+## [CS 7650: Natural Language Processing]()
+  **About:** This course gives an overview of modern data-driven techniques for natural language processing. The course moves from shallow bag-of-words models to richer structural representations of how words interact to create meaning, including language models. At each level, we will discuss the salient linguistic phenomena and most successful computational models. Along the way we will cover machine learning techniques which are especially relevant to natural language processing.
